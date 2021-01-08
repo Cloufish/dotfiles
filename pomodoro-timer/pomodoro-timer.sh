@@ -21,7 +21,7 @@ timer_break(){
 
 timer_work(){
  hour=0
- min=5
+ min=25
  sec=0
         while [ $hour -ge 0 ]; do
                  while [ $min -ge 0 ]; do
@@ -40,10 +40,23 @@ timer_work(){
 }
 
 main(){
+	while true
+	do
+		if ! [[ -f /etc/hosts_without_social.txt  ]] && ! [[ -f /etc/hosts_with_social.txt ]]; then
 
-	rm /etc/hosts
-	
+			wget https://raw.githubusercontent.com/Cloufish/dotfiles/main/hosts_without_social.txt -O /etc/hosts_without_social.txt
+			wget https://raw.githubusercontent.com/Cloufish/dotfiles/main/hosts_with_social.txt -O /etc/hosts_with_social.txt
+		fi 
 
+		rm /etc/hosts
+		cp /etc/hosts_with_social.txt /etc/hosts
+		timer_work
+		notify-send "BREAK TIME! (5min)"
+		rm /etc/hosts
+		cp /etc/hosts_without_social.txt /etc/hosts
+		timer_break
+		notify-send "WORK TIME! (25min)"
+	done
 
 }
 
@@ -53,4 +66,4 @@ main(){
  	exit 1
  fi
 
- main()
+ main

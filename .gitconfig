@@ -1,0 +1,19 @@
+[user]
+	email =
+	name = Cloufish
+[alias]
+	s = status
+	d = diff
+	co = checkout
+	br = branch
+	last = log -1 HEAD
+	cane = commit --amend --no-edit
+	pr = pull --rebase
+	lo = log --oneline -n 10
+	a = add .
+	rh = reset --hard
+	pom = push origin master
+	cm = commit -m
+	pomain = push origin main
+[credential]
+	helper = cache

@@ -1,0 +1,13 @@
+eclipse-common
+eclipse-jee
+genymotion
+google-chrome
+notion-app
+spotify-adblock-git
+sublime-text-dev
+teams
+transcribe
+ttf-ms-fonts
+ttf-symbola
+update-grub
+xmind

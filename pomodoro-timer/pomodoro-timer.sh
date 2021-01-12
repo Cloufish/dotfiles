@@ -1,17 +1,17 @@
 #!/bin/bash
 
-notify-send() {
+#notify-send() {
     #Detect the name of the display in use
-    local display=":$(ls /tmp/.X11-unix/* | sed 's#/tmp/.X11-unix/X##' | head -n 1)"
+#    local display=":$(ls /tmp/.X11-unix/* | sed 's#/tmp/.X11-unix/X##' | head -n 1)"
 
     #Detect the user using such display
-    local user=$(who | grep '('$display')' | awk '{print $1}' | head -n 1)
+#    local user=$(who | grep '('$display')' | awk '{print $1}' | head -n 1)
 
-    #Detect the id of the user
-    local uid=$(id -u $user)
+#    #Detect the id of the user
+#    local uid=$(id -u $user)
 
-    sudo -u $user DISPLAY=$display DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/$uid/bus notify-send "$@"
-}
+#    sudo -u $user DISPLAY=$display DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/$uid/bus notify-send "$@"
+#}
 
 mpv() {
     #Detect the name of the display in use
@@ -98,8 +98,10 @@ main(){
 		wget https://raw.githubusercontent.com/Cloufish/dotfiles/main/hosts_without_social.txt -O ${hosts_dir}/hosts_without_social.txt
 		wget https://raw.githubusercontent.com/Cloufish/dotfiles/main/hosts_with_social.txt -O ${hosts_dir}/hosts_with_social.txt
 		sudo rm /etc/hosts
-		sudo ln ${hosts_dir}/hosts /etc/hosts
+	fi
 
+	if ! [[ -f /etc/hosts ]]; then
+		sudo ln ${hosts_dir}/hosts /etc/hosts
 	fi
 
 	sounds_dir=/home/${username}/.local/sounds
@@ -119,19 +121,19 @@ main(){
 
 		number_of_pomodoro_series=0
 
-		mpg123 -f -2000 ${sounds_dir}/sound_work.mp3 & notify-send -u critical -t 10000 "WORK TIME! (25min)"
+		mpg123 -f -2000 ${sounds_dir}/sound_work.mp3 & notify-send -u normal --expire-time=20000 "WORK TIME! (25min)"
 		cat ${hosts_dir}/hosts_with_social.txt > ${hosts_dir}/hosts
 		number_of_pomodoro_series=$((number_of_pomodoro_series+1))
 		timer_work
 		
 		if [[ $number_of_pomodoro_series -eq 4 ]]; then
-			mpg123 -f -2000 ${sounds_dir}/sound_long_break.mp3 & notify-send -u critical -t 10000 "LONG BREAK TIME! (30min)" 
+			mpg123 -f -2000 ${sounds_dir}/sound_long_break.mp3 & notify-send -u critical -t 20000 "LONG BREAK TIME! (30min)" 
 			cat ${hosts_dir}/hosts_without_social.txt  > ${hosts_dir}/hosts
 			#systemctl suspend & 
 			timer_long_break
 
 		elif [[ $number_of_pomodoro_series -lt 4 ]]; then
-			mpg123 -f -2000 ${sounds_dir}/sound_break.mp3 & notify-send -u critical -t 10000 "BREAK TIME! (5min)"
+			mpg123 -f -2000 ${sounds_dir}/sound_break.mp3 & notify-send -u critical -t 20000 "BREAK TIME! (5min)"
 			cat ${hosts_dir}/hosts_without_social.txt > ${hosts_dir}/hosts
 			#systemctl suspend & 
 			timer_break

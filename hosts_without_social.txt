@@ -1073,7 +1073,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 service.face2trade.com
 0.0.0.0 ssp.face2trade.com
 0.0.0.0 www.face2trade.com
-0.0.0.0 facebooktoday.cc
 0.0.0.0 famartil.com
 0.0.0.0 fap.al
 0.0.0.0 www.fap.al
@@ -8037,9 +8036,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 fabric.io
 0.0.0.0 cdn-cf.fabric.io
 
-# [facebook.com]
-0.0.0.0 an.facebook.com
-0.0.0.0 pixel.facebook.com
 
 # [factual.com]
 0.0.0.0 api.factual.com
@@ -16590,7 +16586,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 f2nmycareer.112.2o7.net
 0.0.0.0 f2nsmh.112.2o7.net
 0.0.0.0 f2ntheage.112.2o7.net
-0.0.0.0 facebookinc.122.2o7.net
 0.0.0.0 factiva.122.2o7.net
 0.0.0.0 fairfaxau.d1.sc.omtrdc.net
 0.0.0.0 fanatics.112.2o7.net
@@ -16850,7 +16845,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 microsoftwindowsmobile.122.2o7.net
 0.0.0.0 microsoftwllivemkt.112.2o7.net
 0.0.0.0 microsoftwlmailmkt.112.2o7.net
-0.0.0.0 microsoftwlmessengermkt.112.2o7.net
 0.0.0.0 microsoftwlmobilemkt.112.2o7.net
 0.0.0.0 microsoftwlsearchcrm.112.2o7.net
 0.0.0.0 microsoftxbox.112.2o7.net
@@ -18043,13 +18037,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 e.zeroredirect.com
 0.0.0.0 ezthemes.com
 0.0.0.0 fabrics-store.com
-0.0.0.0 facebook.cm
-0.0.0.0 facebookcrawl.co.cc
-0.0.0.0 facebookloginsignin.com
-0.0.0.0 facebook-proxy.hi5.com
-0.0.0.0 facebook-repto1040s2.ahlamountada.com
-0.0.0.0 facebooktbtoolbar.ourtoolbar.com
-0.0.0.0 facebookunblocking.com
 0.0.0.0 fastdownload10.com
 0.0.0.0 fastnclick.com
 0.0.0.0 faunusaff.afftrack.com
@@ -18079,7 +18066,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 foreclousure.com
 0.0.0.0 foreclousures.com
 0.0.0.0 forex-instruments.info
-0.0.0.0 formessengers.com
 0.0.0.0 forms.earnmydegree.com
 0.0.0.0 forum-boost.site50.net
 0.0.0.0 fotologaso.miss-web.es
@@ -18163,7 +18149,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 h21.ru
 0.0.0.0 haartezenglish.redirectme.net
 0.0.0.0 hackairtel.tk
-0.0.0.0 hacking-facebook.com
 0.0.0.0 hacking.mysteria.cz
 0.0.0.0 hackkitarena.tk
 0.0.0.0 h-adachi.org
@@ -18389,7 +18374,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 mcleanvahomes.com
 0.0.0.0 mediaplayercodecpack.com
 0.0.0.0 media-playerz.com
-0.0.0.0 meetyourmessenger.co.uk
 0.0.0.0 meiluziai.info
 0.0.0.0 merrymilkfoods.com
 0.0.0.0 mesopotemia222.zapto.org
@@ -19026,7 +19010,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 ualumphuoldi.angelcities.com
 0.0.0.0 u.extreme-dm.com
 0.0.0.0 uk.mediaplayercodecpack.com
-0.0.0.0 unblockfacebook.co.uk
 0.0.0.0 unblocksit.es
 0.0.0.0 unlimiclick.com
 0.0.0.0 unrealcommander.biz
@@ -19381,11 +19364,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.expressomatogrosso.com.br
 0.0.0.0 www.eyes.by
 0.0.0.0 www.fabrics-store.com
-0.0.0.0 www.facebook.cm
-0.0.0.0 www.facebookcrawl.co.cc
-0.0.0.0 www.facebookloginsignin.com
-0.0.0.0 www.facebook.realtorarcf.com
-0.0.0.0 www.facebookunblocking.com
 0.0.0.0 www.fastdownload10.com
 0.0.0.0 www.fastnclick.com
 0.0.0.0 www.favicon.com
@@ -19401,7 +19379,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.foreclousures.com
 0.0.0.0 www.forex-instruments.info
 0.0.0.0 www.formacionprofesional.webuda.com
-0.0.0.0 www.formessengers.com
 0.0.0.0 www.forum.ithealth.ru
 0.0.0.0 www.fotoidea.com
 0.0.0.0 www.fpcclicks.com
@@ -19842,7 +19819,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.twskype.com
 0.0.0.0 www.twttr.com
 0.0.0.0 www.tzw.com
-0.0.0.0 www.unblockfacebook.co.uk
 0.0.0.0 www.unblocksit.es
 0.0.0.0 www.unicaitaly.it
 0.0.0.0 www.unlimiclick.com
@@ -20143,14 +20119,14 @@ ff02::3 ip6-allhosts
 
 
 # You are free to copy and distribute this file for non-commercial uses,
-# as long the original URL and attribution is included. 
+# as long the original URL and attribution is included.
 
 # Please forward any additions, corrections or comments by logging an issue at
 # https://github.com/mitchellkrogza/Badd-Boyz-Hosts/issues
 
 # This list of hosts is compiled from server logs on my own servers
 # and forms the basis of the bad referrers domain lists for
-# The Nginx Ultimate Bad Bot Blocker at: 
+# The Nginx Ultimate Bad Bot Blocker at:
 # https://github.com/mitchellkrogza/nginx-ultimate-bad-bot-blocker
 # and the Apache Ultimate Bad Bot Blocker at:
 # https://github.com/mitchellkrogza/apache-ultimate-bad-bot-blocker
@@ -20161,9 +20137,9 @@ ff02::3 ip6-allhosts
 ##### Version Information ##
 
 # Use this file to prevent your computer or server from connecting to selected
-# internet hosts. This is an easy and effective way to protect you from 
-# many types of spyware, adware, malware, click-jacking and porn sites and reduces 
-# bandwidth use. 
+# internet hosts. This is an easy and effective way to protect you from
+# many types of spyware, adware, malware, click-jacking and porn sites and reduces
+# bandwidth use.
 
 # The file should be named "hosts" NOT "hosts.txt"
 
@@ -21544,7 +21520,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.adpia.vn
 #[younetmedia.com]
 0.0.0.0 digital.younetmedia.com
-0.0.0.0 facebookid.younetmedia.com
 0.0.0.0 gandalf.younetmedia.com
 0.0.0.0 git.younetmedia.com
 0.0.0.0 jenkins.younetmedia.com
@@ -21692,7 +21667,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 creative.mediaz.vn
 0.0.0.0 dnsbak.mediaz.vn
 0.0.0.0 erp.mediaz.vn
-0.0.0.0 facebook-ads.mediaz.vn
 0.0.0.0 go.mediaz.vn
 0.0.0.0 imc.mediaz.vn
 0.0.0.0 insight.mediaz.vn
@@ -26617,8 +26591,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 doladowanie50pln.ujm.pl
 0.0.0.0 download-24.tk
 0.0.0.0 dvzwh.voluumtrk.com
-0.0.0.0 facebookszpieg.glt.pl
-0.0.0.0 facebook-color.5v.pl
 0.0.0.0 face-vip.ujm.pl
 0.0.0.0 fb-szpieguj.likesyou.org
 0.0.0.0 fidgetspinner.5v.pl
@@ -26700,7 +26672,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.d3r6awv9ysiyn4.cloudfront.net
 0.0.0.0 www.doladowanie50pln.ujm.pl
 0.0.0.0 www.dvzwh.voluumtrk.com
-0.0.0.0 www.facebookszpieg.glt.pl
 0.0.0.0 www.funfone.me
 0.0.0.0 www.galatransmisja.pe.hu
 0.0.0.0 www.glosowanie.ujm.pl
@@ -26755,7 +26726,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.ale-fotogragia.bo.pl
 0.0.0.0 www.denis928.000webhostapp.com
 0.0.0.0 www.download-24.tk
-0.0.0.0 www.facebook-color.5v.pl
 0.0.0.0 www.face-vip.ujm.pl
 0.0.0.0 www.fb-szpieguj.likesyou.org
 0.0.0.0 www.fidgetspinner.5v.pl
@@ -27029,7 +26999,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 appsdorado.com
 0.0.0.0 appstorepost.com
 0.0.0.0 apptrader.com
-0.0.0.0 app-messenger-lite.com
 0.0.0.0 aqsati.com
 0.0.0.0 aranzujemy.co.pl
 0.0.0.0 arbeiten.pl
@@ -27708,11 +27677,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 faberville.com
 0.0.0.0 facebbooc.com
 0.0.0.0 faceboobko.tcp4.me
-0.0.0.0 facebook.biz.pl
-0.0.0.0 facebook.m918kiss.my
-0.0.0.0 facebookweryfikacja.gq
-0.0.0.0 facebook-pl.eu
-0.0.0.0 facebook.podpisz-petycje.eu
 0.0.0.0 facebouk.site
 0.0.0.0 facemode.pl
 0.0.0.0 facewatch.borec.cz
@@ -27783,7 +27747,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 fb-ads.me
 0.0.0.0 fb-ads-business.com
 0.0.0.0 fb-business.net
-0.0.0.0 fb-fb-ads-messenger.net
 0.0.0.0 fb-fb-update.com
 0.0.0.0 fb-manager.net
 0.0.0.0 fb-stalking.com
@@ -28456,7 +28419,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 kserwis.pl
 0.0.0.0 ksiazka-telefoniczna-online.pl
 0.0.0.0 ksiega.solidworks.cba.pl
-0.0.0.0 ktopodgladamnienafacebooku.wordpress.com
 0.0.0.0 ktpay.site
 0.0.0.0 kulalusramag.net
 0.0.0.0 kupmaseczki.pl
@@ -28528,7 +28490,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 linkssd.com
 0.0.0.0 link-operator24.com
 0.0.0.0 lisygarments.com
-0.0.0.0 lite-messenger.com
 0.0.0.0 liversely.com
 0.0.0.0 liviaoptions.com
 0.0.0.0 living2winning.com
@@ -28573,7 +28534,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 logononfb.n4t.co
 0.0.0.0 logowanie.dkonto.pl
 0.0.0.0 logowanie-bnpparibas.xyz
-0.0.0.0 logowanie-facebook.mcjust.pl
 0.0.0.0 lokaineogloszenie.live
 0.0.0.0 lokainie.life
 0.0.0.0 lokainie.live
@@ -28636,7 +28596,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 marginelite.com
 0.0.0.0 margohack.za.pl
 0.0.0.0 marialoechert.pl
-0.0.0.0 marketing-messenger.com
 0.0.0.0 marketplace-olx.pl
 0.0.0.0 marketpluse.com
 0.0.0.0 maska-oddechowa-kn95-pl.com
@@ -28675,7 +28634,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 mercuryo.co.com
 0.0.0.0 mergedocsnow.com
 0.0.0.0 mesohair.pl
-0.0.0.0 messenger-lite.com
 0.0.0.0 metaltechnics.pl
 0.0.0.0 methash.com
 0.0.0.0 me-olx.com
@@ -29083,7 +29041,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 olx-ko.pl
 0.0.0.0 olx-m.pl
 0.0.0.0 olx-managment.pl
-0.0.0.0 olx-messenger.com
 0.0.0.0 olx-mi.pl
 0.0.0.0 olx-money.pl
 0.0.0.0 olx-n.pl
@@ -30520,7 +30477,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 wiadomoscizkraju.xyz
 0.0.0.0 wiadomoscizkraju24.com.pl
 0.0.0.0 wiadomosci-24.dkonto.pl
-0.0.0.0 wiadomosci-facebook.eu
 0.0.0.0 wiadomosci-region24.pl
 0.0.0.0 wiadomosclokalna.pl
 0.0.0.0 wiadomosc-24.eu
@@ -31206,9 +31162,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.faberville.com
 0.0.0.0 www.facebbooc.com
 0.0.0.0 www.faceboobko.tcp4.me
-0.0.0.0 www.facebookweryfikacja.gq
-0.0.0.0 www.facebook.biz.pl
-0.0.0.0 www.facebook.m918kiss.my
 0.0.0.0 www.facebouk.site
 0.0.0.0 www.facemode.pl
 0.0.0.0 www.facewatch.borec.cz
@@ -31724,7 +31677,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.ksado.com
 0.0.0.0 www.kserwis.pl
 0.0.0.0 www.ksiega.solidworks.cba.pl
-0.0.0.0 www.ktopodgladamnienafacebooku.wordpress.com
 0.0.0.0 www.ktpay.site
 0.0.0.0 www.kulalusramag.net
 0.0.0.0 www.kupmaseczki.pl
@@ -33210,7 +33162,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.amu-edu-pl.ew.r.appspot.com
 0.0.0.0 www.android-cleaner.net
 0.0.0.0 www.aplikacja-lnpost.com
-0.0.0.0 www.app-messenger-lite.com
 0.0.0.0 www.art-fashion.pl
 0.0.0.0 www.awansujmy-ludzie.eu
 0.0.0.0 www.awansuj-kumpla.eu
@@ -33406,8 +33357,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.e-zaginieni.eu
 0.0.0.0 www.e-zaginieni.pl
 0.0.0.0 www.e-zaginioneosoby.eu
-0.0.0.0 www.facebook-pl.eu
-0.0.0.0 www.facebook.podpisz-petycje.eu
 0.0.0.0 www.fajne-filmy.pl
 0.0.0.0 www.fajny-epizod.eu
 0.0.0.0 www.faksowy.is-best.net
@@ -33440,7 +33389,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.fb-ads.me
 0.0.0.0 www.fb-ads-business.com
 0.0.0.0 www.fb-business.net
-0.0.0.0 www.fb-fb-ads-messenger.net
 0.0.0.0 www.fb-fb-update.com
 0.0.0.0 www.fb-manager.net
 0.0.0.0 www.fb-stalking.com
@@ -33656,7 +33604,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.lgbt-fans.vot.pl
 0.0.0.0 www.liczysie-pomoc.seohost.pl
 0.0.0.0 www.link-operator24.com
-0.0.0.0 www.lite-messenger.com
 0.0.0.0 www.lnfo.web-chat.eu
 0.0.0.0 www.lngbusiness-start.com
 0.0.0.0 www.lngstart-business.com
@@ -33676,7 +33623,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.login-paribas-planet.info
 0.0.0.0 www.login-planet-paribas.info
 0.0.0.0 www.logowanie-bnpparibas.xyz
-0.0.0.0 www.logowanie-facebook.mcjust.pl
 0.0.0.0 www.lokainle-ogloszenia.xyz
 0.0.0.0 www.lokainle-pl-ogloszeniie-129803.space
 0.0.0.0 www.lokalna-941866.in.net
@@ -33693,7 +33639,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.make-by-yourown.com
 0.0.0.0 www.manager-paczek.fun
 0.0.0.0 www.manager-paczek.in.net
-0.0.0.0 www.marketing-messenger.com
 0.0.0.0 www.marketplace-olx.pl
 0.0.0.0 www.maska-oddechowa-kn95-pl.com
 0.0.0.0 www.max-host.pl
@@ -33707,7 +33652,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.medycyna-naturalna24.com
 0.0.0.0 www.mega-gry.com
 0.0.0.0 www.mephisto.nd.e-wro.pl
-0.0.0.0 www.messenger-lite.com
 0.0.0.0 www.me-olx.com
 0.0.0.0 www.microsoft-o365-outlook.ts.r.appspot.com
 0.0.0.0 www.microsoft-secure-online.oa.r.appspot.com
@@ -33850,7 +33794,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.olx-ko.pl
 0.0.0.0 www.olx-m.pl
 0.0.0.0 www.olx-managment.pl
-0.0.0.0 www.olx-messenger.com
 0.0.0.0 www.olx-mi.pl
 0.0.0.0 www.olx-money.pl
 0.0.0.0 www.olx-n.pl
@@ -34426,7 +34369,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.weryfikuj-wynik.eu
 0.0.0.0 www.wiadomosci24-live.eu
 0.0.0.0 www.wiadomosci-24.dkonto.pl
-0.0.0.0 www.wiadomosci-facebook.eu
 0.0.0.0 www.wiadomosci-region24.pl
 0.0.0.0 www.wiadomosc-24.eu
 0.0.0.0 www.wiadomosc-24.online
@@ -34678,7 +34620,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 aerie-photographer.blogspot.com
 0.0.0.0 aisha-khadija.blogspot.com
 0.0.0.0 aizuite.blogspot.com
-0.0.0.0 aktualizacjafacebooka.blogspot.com
 0.0.0.0 alexreds.blogspot.com
 0.0.0.0 alissaathirah.blogspot.com
 0.0.0.0 almiranazelia.blogspot.com
@@ -34735,10 +34676,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 enjoyhearts.blogspot.com
 0.0.0.0 eurosport1hd.blogspot.com
 0.0.0.0 eurosport2hd.blogspot.com
-0.0.0.0 facebookaplikacje.blogspot.com
-0.0.0.0 facebookcolors24.blogspot.com
-0.0.0.0 facebookkoloruj.blogspot.com
-0.0.0.0 facebookkviewer.blogspot.com
 0.0.0.0 face--viewer.blogspot.com
 0.0.0.0 fain-stolymolly.blogspot.com
 0.0.0.0 farid-nono.blogspot.com
@@ -34788,7 +34725,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 khalisspirit.blogspot.com
 0.0.0.0 kolloryfejsa.blogspot.com
 0.0.0.0 kollory-fejsa.blogspot.com
-0.0.0.0 kolorfacebooka24.blogspot.com
 0.0.0.0 kolorowy-fejs.blogspot.com
 0.0.0.0 kolorowy-f-b.blogspot.com
 0.0.0.0 koloryfejsa.blogspot.com
@@ -34934,7 +34870,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.accelerationlife.blogspot.com
 0.0.0.0 www.adrianzajewicz.blogspot.com
 0.0.0.0 www.aizuite.blogspot.com
-0.0.0.0 www.aktualizacjafacebooka.blogspot.com
 0.0.0.0 www.alexreds.blogspot.com
 0.0.0.0 www.alissaathirah.blogspot.com
 0.0.0.0 www.almiranazelia.blogspot.com
@@ -34984,10 +34919,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.enjoyhearts.blogspot.com
 0.0.0.0 www.eurosport1hd.blogspot.com
 0.0.0.0 www.eurosport2hd.blogspot.com
-0.0.0.0 www.facebookaplikacje.blogspot.com
-0.0.0.0 www.facebookcolors24.blogspot.com
-0.0.0.0 www.facebookkoloruj.blogspot.com
-0.0.0.0 www.facebookkviewer.blogspot.com
 0.0.0.0 www.fathizerox.blogspot.com
 0.0.0.0 www.fayesundling.blogspot.com
 0.0.0.0 www.fbweryfikacja123.blogspot.com
@@ -35024,7 +34955,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.katrinathephanter.blogspot.com
 0.0.0.0 www.khalisspirit.blogspot.com
 0.0.0.0 www.kolloryfejsa.blogspot.com
-0.0.0.0 www.kolorfacebooka24.blogspot.com
 0.0.0.0 www.koloryfejsa.blogspot.com
 0.0.0.0 www.kuijacelyn.blogspot.com
 0.0.0.0 www.leakeslines.blogspot.com
@@ -35496,11 +35426,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 e-poszukiwanie.pl
 0.0.0.0 e-poszukiwanie.site
 0.0.0.0 facebokznajomi.blogspot.com
-0.0.0.0 facebook-com-pl-profile.7m.pl
-0.0.0.0 facebook-login.5v.pl
-0.0.0.0 facebook-profile.5v.pl
-0.0.0.0 facebook.5v.pl
-0.0.0.0 facebook.twoje-foty.eu
 0.0.0.0 faktoswe.is-best.net
 0.0.0.0 faktowace.is-best.net
 0.0.0.0 faktowe.is-best.net
@@ -37171,11 +37096,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.e-poszukiwanie.online
 0.0.0.0 www.e-poszukiwanie.pl
 0.0.0.0 www.e-poszukiwanie.site
-0.0.0.0 www.facebook-com-pl-profile.7m.pl
-0.0.0.0 www.facebook-login.5v.pl
-0.0.0.0 www.facebook-profile.5v.pl
-0.0.0.0 www.facebook.5v.pl
-0.0.0.0 www.facebook.twoje-foty.eu
 0.0.0.0 www.faktoswe.is-best.net
 0.0.0.0 www.faktowace.is-best.net
 0.0.0.0 www.faktowe.is-best.net
@@ -37480,7 +37400,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.zalukaj-vip.pl
 0.0.0.0 www.zalukaj-zalukaj.24.eu
 0.0.0.0 www.zalukaj.5v.pl
-0.0.0.0 www.zdjecie-facebook-zdj3425jeio.dkonto.pl
 0.0.0.0 wybielaniezebow.c.pl
 0.0.0.0 wyciek-zdjec.24lite.eu
 0.0.0.0 wydarzenia24.x9.eu
@@ -37519,7 +37438,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 zalukaj-zalukaj.24.eu
 0.0.0.0 zalukaj.5v.pl
 0.0.0.0 zdjecienago2.c.pl
-0.0.0.0 zdjecie-facebook-zdj3425jeio.dkonto.pl
 0.0.0.0 zebywybielanie.c.pl
 0.0.0.0 zgwalconadziewczyna.eu
 0.0.0.0 zgwalconadziewczyna.online
@@ -43253,8 +43171,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.pointroll.com
 # [Pret En Print / Fr-carpe-diem][AS16080][193.110.146.0 - 193.110.146.255]
 0.0.0.0 ktu.sv2.biz
-0.0.0.0 media.yesmessenger.com
-0.0.0.0 outils.yes-messenger.com
 # [Pret En Print / Fr-carpe-diem][AS16080][193.138.90.0 - 193.138.90.255]
 # [Prime / Seekio][AS15082][216.7.87.0 - 216.7.90.255]
 0.0.0.0 avalon.topbucks.com
@@ -45777,7 +45693,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 medicelcoolers.cn
 0.0.0.0 members.nlbformula.com
 0.0.0.0 menol.eu
-0.0.0.0 messenger-courier.com
 0.0.0.0 metadorr.com
 0.0.0.0 mikegeerinck.com
 0.0.0.0 mitrapack.co.id
@@ -46213,8 +46128,8 @@ ff02::3 ip6-allhosts
 # This hosts file is brought to you by Dan Pollock and can be found at
 # http://someonewhocares.org/hosts/zero/
 # You are free to copy and distribute this file for non-commercial uses,
-# as long the original URL and attribution is included. 
-# 
+# as long the original URL and attribution is included.
+#
 # See below for acknowledgements.
 
 # Please forward any additions, corrections or comments by email to
@@ -46223,17 +46138,17 @@ ff02::3 ip6-allhosts
 # Last updated: Mon, 21 Dec 2020 at 04:06:23 GMT
 
 # Use this file to prevent your computer from connecting to selected
-# internet hosts. This is an easy and effective way to protect you from 
-# many types of spyware, reduces bandwidth use, blocks certain pop-up 
+# internet hosts. This is an easy and effective way to protect you from
+# many types of spyware, reduces bandwidth use, blocks certain pop-up
 # traps, prevents user tracking by way of "web bugs" embedded in spam,
 # provides partial protection to IE from certain web-based exploits and
-# blocks most advertising you would otherwise be subjected to on the 
-# internet. 
+# blocks most advertising you would otherwise be subjected to on the
+# internet.
 
-# There is a version of this file that uses 127.0.0.1 instead of 0.0.0.0 
+# There is a version of this file that uses 127.0.0.1 instead of 0.0.0.0
 # available at http://someonewhocares.org/hosts/.
 # On some machines this may run minutely faster, however the zero version
-# may not be compatible with all systems. 
+# may not be compatible with all systems.
 
 # This file must be saved as a text file with no extension. (This means
 # that the file name should be exactly as below, without a ".txt" appended.)
@@ -46260,7 +46175,7 @@ ff02::3 ip6-allhosts
 # On a Netware system, the location is System\etc\hosts"
 # For Macintosh (pre OS X) place it in the Mac System Folder or Preferences
 #    folder and reboot. (something like HD:System Folder:Preferences:Hosts)
-#    Alternatively you can save it elsewhere on your machine, then go to the 
+#    Alternatively you can save it elsewhere on your machine, then go to the
 #    TCP/IP control panel and click on "Select hosts file" to read it in.
 #    ------------------
 #    | As well, note that the format is different on old macs, so
@@ -46486,12 +46401,12 @@ ff02::3 ip6-allhosts
 #</shortcut-examples>
 
 #<hijack-sites>
-# The sites ads234.com and ads345.com -- These sites hijack internet explorer 
-# and redirect all requests through their servers. You may need to use spyware 
-# removal programs such as SpyBotS&amp;D, AdAware or HijackThis to remove this 
-# nasty parasite. It's possible that blocking these sites using a hosts file 
+# The sites ads234.com and ads345.com -- These sites hijack internet explorer
+# and redirect all requests through their servers. You may need to use spyware
+# removal programs such as SpyBotS&amp;D, AdAware or HijackThis to remove this
+# nasty parasite. It's possible that blocking these sites using a hosts file
 # may not work, in which case you should remove the following lines from this
-# file and try the tools listed above immediately. Don't forget to reboot 
+# file and try the tools listed above immediately. Don't forget to reboot
 # after a scan.
 0.0.0.0 ads234.com
 0.0.0.0 ads345.com
@@ -46505,9 +46420,9 @@ ff02::3 ip6-allhosts
 # By entering domains here, it will prevent certain companies from
 # gathering information on your surfing habits. These servers do not
 # necessarily serve ads, instead some are used by certain products to
-# "phone home". Others use web cookies to gather statistics on surfing 
-# habits. Among other uses, this is a common tactic by spammers, to 
-# let them know that you have read your mail. 
+# "phone home". Others use web cookies to gather statistics on surfing
+# habits. Among other uses, this is a common tactic by spammers, to
+# let them know that you have read your mail.
 # Uncomment (remove the #) the lines that you wish to block, as some
 # may provide you with services you like.
 
@@ -46515,23 +46430,23 @@ ff02::3 ip6-allhosts
 #0.0.0.0 auto.search.msn.com  # Microsoft uses this server to redirect
                                 # mistyped URLs to search engines. They
                                 # log all such errors.
-#0.0.0.0 sitefinder.verisign.com	# Verisign has joined the game 
+#0.0.0.0 sitefinder.verisign.com	# Verisign has joined the game
 #0.0.0.0 sitefinder-idn.verisign.com	# of trying to hijack mistyped
-					# URLs to their site. 
+					# URLs to their site.
 					# May break iOS Game Center.
 
-#0.0.0.0 s0.2mdn.net		# This may interfere with some streaming 
+#0.0.0.0 s0.2mdn.net		# This may interfere with some streaming
 				# video on sites such as cbc.ca
 #0.0.0.0 ad.doubleclick.net   # This may interefere with www.sears.com
-				# and potentially other sites. 
+				# and potentially other sites.
 0.0.0.0 media.fastclick.net  # Likewise, this may interfere with some
 #0.0.0.0 ebay.doubleclick.net		# may interfere with ebay
 #0.0.0.0 google-analytics.com			# breaks some sites
 #0.0.0.0 ssl.google-analytics.com
 #0.0.0.0 www.google-analytics.l.google.com
-#0.0.0.0 stat.livejournal.com		# There are reports that this may mess 
+#0.0.0.0 stat.livejournal.com		# There are reports that this may mess
  					# up CSS on livejournal
-#0.0.0.0 stats.surfaid.ihost.com	# This has been known cause 
+#0.0.0.0 stats.surfaid.ihost.com	# This has been known cause
 					# problems with NPR.org
 #0.0.0.0 www.google-analytics.com		# breaks some sites
 #0.0.0.0 ads.imeem.com		# Seems to interfere with the functioning of imeem.com
@@ -46576,7 +46491,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 adelogs.adobe.com  #See http://www.theregister.co.uk/2014/10/07/adobe_digital_editions_4_caught_snooping_into_ebook_collections_of_users/
 0.0.0.0 ademails.com
 0.0.0.0 adlog.com.com  # Used by Ziff Davis to serve
-  # ads and track users across 
+  # ads and track users across
   # the com.com family of sites
 0.0.0.0 admanmail.com
 0.0.0.0 admin.iesnare.co.uk
@@ -50828,7 +50743,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 ads.ahds.ac.uk
 0.0.0.0 ads.aintitcool.com
 0.0.0.0 ads.airamericaradio.com
-0.0.0.0 ads.ak.facebook.com
 0.0.0.0 ads.al.com
 0.0.0.0 ads.albawaba.com
 0.0.0.0 ads.allsites.com
@@ -52309,7 +52223,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 apps9039.super-your-prize33.loan
 0.0.0.0 appsrv1.madserving.cn
 0.0.0.0 aptitude.newversionupdatefreshand4you.space
-0.0.0.0 arabtechmessenger.net
 0.0.0.0 arbomedia.pl
 0.0.0.0 arbopl.bbelements.com
 0.0.0.0 arena.altitudeplatform.com
@@ -53095,7 +53008,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 creative.ad121m.com
 0.0.0.0 creative.ad131m.com
 0.0.0.0 creative.adshuffle.com
-0.0.0.0 creative.ak.facebook.com
 0.0.0.0 creative.medianexusnetwork.com
 0.0.0.0 creatives.rgadvert.com
 0.0.0.0 creatrixads.com
@@ -53274,7 +53186,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 downads.com
 0.0.0.0 download.filmfanatic.com
 0.0.0.0 download.wholestuff.win
-0.0.0.0 download.yesmessenger.com
 0.0.0.0 downloadapps.tech
 0.0.0.0 downloadcdn.com
 0.0.0.0 downloadmpplayer.com
@@ -54920,7 +54831,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 otpercpiheno.blogspot.com
 0.0.0.0 otpercpiheno.hu
 0.0.0.0 outbrain.com
-0.0.0.0 outils.yesmessenger.com
 0.0.0.0 overflow.adsoftware.com
 0.0.0.0 owabgxis.wp.pl
 0.0.0.0 ox-d.hbr.org
@@ -58497,7 +58407,7 @@ ff02::3 ip6-allhosts
 
 #<ecard-scam-sites>
 
-# malicious e-card -- these sites send out mass quantities of spam 
+# malicious e-card -- these sites send out mass quantities of spam
 	# and some distribute adware and spyware
 0.0.0.0 123greetings.com  # contains one link to distributor of adware or spyware
 0.0.0.0 2000greetings.com
@@ -58540,7 +58450,7 @@ ff02::3 ip6-allhosts
 
 #<wiki-spam-sites>
 
-# message board and wiki spam -- these sites are linked in 
+# message board and wiki spam -- these sites are linked in
 	# message board spam and are unlikely to be real sites
 0.0.0.0 10pg.scl5fyd.info
 0.0.0.0 21jewelry.com
@@ -59354,7 +59264,7 @@ ff02::3 ip6-allhosts
 
 #<Windows10>
 
-# Windows 10 reporting domains. 
+# Windows 10 reporting domains.
 0.0.0.0 adnexus.net
 0.0.0.0 az361816.vo.msecnd.net
 0.0.0.0 az512334.vo.msecnd.net
@@ -59381,31 +59291,31 @@ ff02::3 ip6-allhosts
 # I'd like to thank the following people for submitting sites, and
 # helping promote the site.
 
-# Bill Allison, Harj Basi, Lance Russhing, Marshall Drew-Brook, 
+# Bill Allison, Harj Basi, Lance Russhing, Marshall Drew-Brook,
 #  Leigh Brasington, Scott Terbush, Cary Newfeldt, Kaye, Jeff
 #  Scrivener, Mark Hudson, Matt Bells, T. Kim Nguyen, Lino Demasi,
 #  Marcelo Volmaro, Troy Martin, Donald Kerns, B.Patten-Walsh,
 #  bobeangi, Chris Maniscalco, George Gilbert, Kim Nilsson, zeromus,
-#  Robert Petty, Rob Morrison, Clive Smith, Cecilia Varni, OleKing 
+#  Robert Petty, Rob Morrison, Clive Smith, Cecilia Varni, OleKing
 #  Cole, William Jones, Brian Small, Raj Tailor, Richard Heritage,
-#  Alan Harrison, Ordorica, Crimson, Joseph Cianci, sirapacz, 
-#  Dvixen, Matthew Craig, Tobias Hessem, Kevin F. Quinn, Thomas 
-#  Corthals, Chris McBee, Jaime A. Guerra, Anders Josefson, 
+#  Alan Harrison, Ordorica, Crimson, Joseph Cianci, sirapacz,
+#  Dvixen, Matthew Craig, Tobias Hessem, Kevin F. Quinn, Thomas
+#  Corthals, Chris McBee, Jaime A. Guerra, Anders Josefson,
 #  Simon Manderson, Spectre Ghost, Darren Tay, Dallas Eschenauer, Cecilia
-#  Varni, Adam P. Cole, George Lefkaditis, grzesiek, Adam Howard, Mike 
-#  Bizon, Samuel P. Mallare, Leinweber, Walter Novak, Stephen Genus, 
+#  Varni, Adam P. Cole, George Lefkaditis, grzesiek, Adam Howard, Mike
+#  Bizon, Samuel P. Mallare, Leinweber, Walter Novak, Stephen Genus,
 #  Zube, Johny Provoost, Peter Grafton, Johann Burkard, Magus, Ron Karner,
-#  Fredrik Dahlman, Michele Cybula, Bernard Conlu, Riku B, Twillers, 
+#  Fredrik Dahlman, Michele Cybula, Bernard Conlu, Riku B, Twillers,
 #  Shaika-Dzari, Vartkes Goetcherian, Michael McCown, Garth, Richard Nairn,
 #  Exzar Reed, Robert Gauthier, Floyd Wilder, Mark Drissel, Kenny Lyons,
 #  Paul Dunne, Tirath Pannu, Mike Lambert, Dan Kolcun, Daniel Aleksandersen,
-#  Chris Heegard, Miles Golding, Daniel Bisca, Frederic Begou, Charles 
-#  Fordyce, Mark Lehrer, Sebastien Nadeau-Jean, Russell Gordon, Alexey 
+#  Chris Heegard, Miles Golding, Daniel Bisca, Frederic Begou, Charles
+#  Fordyce, Mark Lehrer, Sebastien Nadeau-Jean, Russell Gordon, Alexey
 #  Gopachenko, Stirling Pearson, Alan Segal, Bobin Joseph, Chris Wall, Sean
 #  Flesch, Brent Getz, Jerry Cain, Brian Micek, Lee Hancock, Kay Thiele,
-#  Kwan Ting Chan, Wladimir Labeikovsky, Lino Demasi, Bowie Bailey, Andreas 
+#  Kwan Ting Chan, Wladimir Labeikovsky, Lino Demasi, Bowie Bailey, Andreas
 #  Marschall, Michael Tompkins, Michael O'Donnell, Jos&eacute; Lucas Teixeira
-#  de Oliveira, M. &Ouml;mer G&ouml;lgeli, and Anthony Gelibert for helping to build 
+#  de Oliveira, M. &Ouml;mer G&ouml;lgeli, and Anthony Gelibert for helping to build
 #  the hosts file.
 # Russell O'Connor for OS/2 information
 # kwadronaut for Windows 7 and Vista information
@@ -69308,8 +69218,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 iality.best
 0.0.0.0 www.iality.best
 0.0.0.0 www.playboy.bg
-0.0.0.0 facebook.bi
-0.0.0.0 www.facebook.bi
 0.0.0.0 xxxporn.bid
 0.0.0.0 101top.biz
 0.0.0.0 adultcomix.biz
@@ -74935,10 +74843,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.briceangel.over-blog.com
 0.0.0.0 evilangel.over-blog.com
 0.0.0.0 www.evilangel.over-blog.com
-0.0.0.0 facebookofsex.over-blog.com
-0.0.0.0 www.facebookofsex.over-blog.com
-0.0.0.0 facebooksex.over-blog.com
-0.0.0.0 www.facebooksex.over-blog.com
 0.0.0.0 www.incubeangel.over-blog.com
 0.0.0.0 www.shy-angels.over-blog.com
 0.0.0.0 www.skypeofsex.over-blog.com
@@ -77753,8 +77657,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 thumbs.yellowpron.com
 0.0.0.0 www.yellowpron.com
 0.0.0.0 www.yeptube.com
-0.0.0.0 yesmessenger.com
-0.0.0.0 www.yesmessenger.com
 0.0.0.0 yespornotube.com
 0.0.0.0 yespornpics.com
 0.0.0.0 yetiporntube.com
@@ -78093,8 +77995,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.thenude.eu
 0.0.0.0 www.xporncams.eu
 0.0.0.0 www.xxxstreams.eu
-0.0.0.0 yesmessenger.eu
-0.0.0.0 www.yesmessenger.eu
 0.0.0.0 nsfw.exchange
 0.0.0.0 cdn2.nsfw.exchange
 0.0.0.0 www.milf-area.fi
@@ -78131,8 +78031,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 www.girlsbcn.fr
 0.0.0.0 hentai-paradise.fr
 0.0.0.0 static.hentai-paradise.fr
-0.0.0.0 facebook-pour-adulte.over-blog.fr
-0.0.0.0 www.facebook-pour-adulte.over-blog.fr
 0.0.0.0 affiliation.porn.fr
 0.0.0.0 www.gratuit.porn.fr
 0.0.0.0 public.porn.fr
@@ -82780,14 +82678,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 eztzvuzvuz.info
 0.0.0.0 www.eztzvuzvuz.info
 0.0.0.0 ezwebcamsex.com
-0.0.0.0 facebook-girl.com
-0.0.0.0 www.facebook-girl.com
-0.0.0.0 facebook-of-sex.com
-0.0.0.0 www.facebook-of-sex.com
-0.0.0.0 facebookofporn.com
-0.0.0.0 www.facebookofporn.com
-0.0.0.0 facebooksexo.com
-0.0.0.0 www.facebooksexo.com
 0.0.0.0 facefuckshemale.com
 0.0.0.0 fairynudes.com
 0.0.0.0 fakehub.com
@@ -84230,8 +84120,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 hot-tranny.net
 0.0.0.0 hot-webcams.com
 0.0.0.0 www.hot-webcams.com
-0.0.0.0 hot-yesmessenger.com
-0.0.0.0 www.hot-yesmessenger.com
 0.0.0.0 hotadultstuff.com
 0.0.0.0 www.hotadultstuff.com
 0.0.0.0 hotamateurmature.com
@@ -85193,8 +85081,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 lewdclub.com
 0.0.0.0 lewdgrandma.com
 0.0.0.0 lexibelle.com
-0.0.0.0 leyesmessenger.com
-0.0.0.0 www.leyesmessenger.com
 0.0.0.0 lezbohoneys.com
 0.0.0.0 lezcuties.com
 0.0.0.0 lezdomgate.com
@@ -85267,8 +85153,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 live-show-francais.net
 0.0.0.0 live-shows-webcams.com
 0.0.0.0 live-stripp.tv
-0.0.0.0 live-yesmessenger.com
-0.0.0.0 www.live-yesmessenger.com
 0.0.0.0 liveadultchat.com
 0.0.0.0 liveasiancams.biz
 0.0.0.0 livebazoocam.com
@@ -85946,8 +85830,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 momxvideos.net
 0.0.0.0 momxxx.org
 0.0.0.0 momxxxsex.net
-0.0.0.0 mon-yesmessenger.com
-0.0.0.0 www.mon-yesmessenger.com
 0.0.0.0 mondayporn.com
 0.0.0.0 mondaytube.com
 0.0.0.0 mondegay.com
@@ -90505,8 +90387,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 yeptube.com
 0.0.0.0 yesbdsmporn.com
 0.0.0.0 yescams.com
-0.0.0.0 yesmessenger.hu
-0.0.0.0 www.yesmessenger.hu
 0.0.0.0 yesporn.website
 0.0.0.0 yesporner.co
 0.0.0.0 yespornplease.com
@@ -91359,30 +91239,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 plus.google.com
 
 # Facebook
-0.0.0.0 0-act.channel.facebook.com
-0.0.0.0 0-edge-chat.facebook.com
-0.0.0.0 0.beta.facebook.com
-0.0.0.0 1-act.channel.facebook.com
-0.0.0.0 1-edge-chat.facebook.com
-0.0.0.0 2-act.channel.facebook.com
-0.0.0.0 2-edge-chat.facebook.com
-0.0.0.0 3-act.channel.facebook.com
-0.0.0.0 3-edge-chat.facebook.com
-0.0.0.0 4-act.channel.facebook.com
-0.0.0.0 4-edge-chat.facebook.com
-0.0.0.0 5-act.channel.facebook.com
-0.0.0.0 5-edge-chat.facebook.com
-0.0.0.0 6-act.channel.facebook.com
-0.0.0.0 6-edge-chat.facebook.com
-0.0.0.0 a.ns.facebook.com
-0.0.0.0 a1qa.m.facebook.com
 0.0.0.0 a3.sphotos.ak.fbcdn.net
-0.0.0.0 abc.facebook.com
-0.0.0.0 about.facebook.com
-0.0.0.0 act.channel.facebook.com
-0.0.0.0 act.facebook.com
-0.0.0.0 actcorp.m.facebook.com
-0.0.0.0 ads.facebook.com
 0.0.0.0 ae0.bb01.ams2.tfbnw.net
 0.0.0.0 ae0.bb01.atl1.tfbnw.net
 0.0.0.0 ae0.bb01.bos2.tfbnw.net
@@ -91633,319 +91490,17 @@ ff02::3 ip6-allhosts
 0.0.0.0 ae13.pr01.mia1.tfbnw.net
 0.0.0.0 ae13.pr01.ord1.tfbnw.net
 0.0.0.0 ae13.pr01.sea1.tfbnw.net
-0.0.0.0 airasia.m.facebook.com
-0.0.0.0 ak.facebook.com
-0.0.0.0 algar.m.facebook.com
-0.0.0.0 allo.m.facebook.com
-0.0.0.0 alpha-shv-03-ash5.facebook.com
-0.0.0.0 alpha-shv-03-atn1.facebook.com
-0.0.0.0 alpha-shv-03-lla1.facebook.com
-0.0.0.0 alpha-shv-04-prn2.facebook.com
-0.0.0.0 alpha-shv-09-frc1.facebook.com
-0.0.0.0 alpha.vvv.facebook.com
-0.0.0.0 api-read.facebook.com
-0.0.0.0 api.ak.facebook.com
-0.0.0.0 api.connect.facebook.com
-0.0.0.0 api.facebook.com
-0.0.0.0 app.facebook.com
-0.0.0.0 apps.facebook.com
-0.0.0.0 ar-ar.facebook.com
-0.0.0.0 ar-ar.fr-fr.es-es.prod.facebook.com
 0.0.0.0 ash1.fbcdn.net
-0.0.0.0 asos.m.facebook.com
-0.0.0.0 asurion.m.facebook.com
-0.0.0.0 atlas-shv-01-prn2.facebook.com
-0.0.0.0 atlas-shv-04-lla1.facebook.com
-0.0.0.0 atlas-shv-05-ash3.facebook.com
-0.0.0.0 atlas-shv-06-ash2.facebook.com
-0.0.0.0 atlas-shv-06-frc1.facebook.com
-0.0.0.0 atlas-shv-07-lla1.facebook.com
-0.0.0.0 atlas-shv-09-frc3.facebook.com
-0.0.0.0 atlas-shv-13-prn1.facebook.com
-0.0.0.0 atlas-www-shv-04-prn2.facebook.com
-0.0.0.0 atlas-www-shv-07-ash4.facebook.com
-0.0.0.0 atlas-www-shv-09-frc1.facebook.com
-0.0.0.0 atlas.c10r.facebook.com
-0.0.0.0 atlasalpha-shv-09-frc3.facebook.com
-0.0.0.0 atlasinyour-shv-05-ash3.facebook.com
 0.0.0.0 attachment.fbsbx.com
-0.0.0.0 attachments.facebook.com
-0.0.0.0 aura-11-01-snc7.facebook.com
-0.0.0.0 axiata.m.facebook.com
-0.0.0.0 axis.m.facebook.com
-0.0.0.0 az-az.facebook.com
-0.0.0.0 b-api.facebook.com
-0.0.0.0 b-graph.facebook.com
-0.0.0.0 b-m.facebook.com
-0.0.0.0 b-www.facebook.com
-0.0.0.0 b.ns.facebook.com
-0.0.0.0 b.static.ak.facebook.com
 0.0.0.0 b.static.ak.fbcdn.net
-0.0.0.0 badge.facebook.com
-0.0.0.0 bc.facebook.com
-0.0.0.0 bd.m.facebook.com
-0.0.0.0 beta-chat-01-05-ash3.facebook.com
-0.0.0.0 beta-shv-03-atn1.facebook.com
-0.0.0.0 beta-shv-03-lla1.facebook.com
-0.0.0.0 beta-shv-04-prn2.facebook.com
-0.0.0.0 beta-shv-09-frc1.facebook.com
-0.0.0.0 beta.facebook.com
-0.0.0.0 beta.vvv.facebook.com
-0.0.0.0 betanet-shv-03-atn1.facebook.com
-0.0.0.0 betanet-shv-03-lla1.facebook.com
-0.0.0.0 betanet-shv-04-prn2.facebook.com
-0.0.0.0 betanet-shv-09-frc1.facebook.com
-0.0.0.0 bg-bg.facebook.com
-0.0.0.0 bidder-shv-05-frc3.facebook.com
-0.0.0.0 bidder-shv-10-frc1.facebook.com
-0.0.0.0 bidv.m.facebook.com
-0.0.0.0 bigzipfiles.facebook.com
-0.0.0.0 blog.facebook.com
-0.0.0.0 boostcom.m.facebook.com
-0.0.0.0 bs-ba.facebook.com
-0.0.0.0 business.facebook.com
-0.0.0.0 c.facebook.com
-0.0.0.0 ca-es.facebook.com
-0.0.0.0 capiot.m.facebook.com
-0.0.0.0 ccamatil.m.facebook.com
 0.0.0.0 cdg2.fbcdn.net
-0.0.0.0 channel-ecmp-05-ash3.facebook.com
-0.0.0.0 channel-proxy-shv-04-frc3.facebook.com
-0.0.0.0 channel-proxy-shv-06-ash2.facebook.com
-0.0.0.0 channel-proxy-shv-07-ash2.facebook.com
-0.0.0.0 channel-proxy-shv-13-prn1.facebook.com
-0.0.0.0 channel-proxy-test-shv-07-ash2.facebook.com
-0.0.0.0 channel-staging-ecmp-05-ash3.facebook.com
-0.0.0.0 channel-testing-ecmp-05-ash3.facebook.com
-0.0.0.0 check4.facebook.com
-0.0.0.0 check6.facebook.com
-0.0.0.0 clubmed.m.facebook.com
-0.0.0.0 code.facebook.com
-0.0.0.0 com0.facebook.com
-0.0.0.0 comfytrade.m.facebook.com
-0.0.0.0 conectadosbancogalicia.m.facebook.com
-0.0.0.0 connect.facebook.com
-0.0.0.0 connect.facebook.net
-0.0.0.0 connect.facebook.net.edgekey.net
 0.0.0.0 creative.ak.fbcdn.net
-0.0.0.0 cs-cz.facebook.com
-0.0.0.0 csf.facebook.com
 0.0.0.0 ct-m-fbx.fbsbx.com
-0.0.0.0 d.facebook.com
-0.0.0.0 d.vvv.facebook.com
-0.0.0.0 da-dk.facebook.com
-0.0.0.0 da-dk.facebook.dk
-0.0.0.0 danone.m.facebook.com
-0.0.0.0 davivienda.m.facebook.com
-0.0.0.0 de-de.facebook.com
-0.0.0.0 de-de.facebook.de
-0.0.0.0 deloitte.m.facebook.com
-0.0.0.0 dev.vvv.facebook.com
-0.0.0.0 developers.facebook.com
-0.0.0.0 dixonscarphone.m.facebook.com
-0.0.0.0 dm.m.facebook.com
-0.0.0.0 dns.facebook.com
-0.0.0.0 ed.facebook.com
-0.0.0.0 edge-atlas-proxyprotocol-shv-01-ash5.facebook.com
-0.0.0.0 edge-atlas-proxyprotocol-shv-03-ash5.facebook.com
-0.0.0.0 edge-atlas-proxyprotocol-shv-07-ash4.facebook.com
-0.0.0.0 edge-atlas-proxyprotocol-shv-07-frc3.facebook.com
-0.0.0.0 edge-atlas-proxyprotocol-shv-09-frc1.facebook.com
-0.0.0.0 edge-atlas-proxyprotocol-shv-12-frc1.facebook.com
-0.0.0.0 edge-atlas-proxyprotocol-shv-12-frc3.facebook.com
-0.0.0.0 edge-atlas-proxyprotocol-shv-13-frc1.facebook.com
-0.0.0.0 edge-atlas-shv-01-ams2.facebook.com
-0.0.0.0 edge-atlas-shv-01-ams3.facebook.com
-0.0.0.0 edge-atlas-shv-01-ash5.facebook.com
-0.0.0.0 edge-atlas-shv-01-atl1.facebook.com
-0.0.0.0 edge-atlas-shv-01-bru2.facebook.com
-0.0.0.0 edge-atlas-shv-01-cai1.facebook.com
-0.0.0.0 edge-atlas-shv-01-cdg2.facebook.com
-0.0.0.0 edge-atlas-shv-01-dfw1.facebook.com
-0.0.0.0 edge-atlas-shv-01-fra3.facebook.com
-0.0.0.0 edge-atlas-shv-01-gru1.facebook.com
-0.0.0.0 edge-atlas-shv-01-hkg2.facebook.com
-0.0.0.0 edge-atlas-shv-01-iad3.facebook.com
-0.0.0.0 edge-atlas-shv-01-kul1.facebook.com
-0.0.0.0 edge-atlas-shv-01-lax1.facebook.com
-0.0.0.0 edge-atlas-shv-01-lga1.facebook.com
-0.0.0.0 edge-atlas-shv-01-lhr3.facebook.com
-0.0.0.0 edge-atlas-shv-01-mad1.facebook.com
-0.0.0.0 edge-atlas-shv-01-mia1.facebook.com
-0.0.0.0 edge-atlas-shv-01-mxp1.facebook.com
-0.0.0.0 edge-atlas-shv-01-nrt1.facebook.com
-0.0.0.0 edge-atlas-shv-01-ord1.facebook.com
-0.0.0.0 edge-atlas-shv-01-sea1.facebook.com
-0.0.0.0 edge-atlas-shv-01-sin1.facebook.com
-0.0.0.0 edge-atlas-shv-01-sjc2.facebook.com
-0.0.0.0 edge-atlas-shv-01-syd1.facebook.com
-0.0.0.0 edge-atlas-shv-01-vie1.facebook.com
-0.0.0.0 edge-atlas-shv-02-cai1.facebook.com
-0.0.0.0 edge-atlas-shv-02-hkg2.facebook.com
-0.0.0.0 edge-atlas-shv-03-ash5.facebook.com
-0.0.0.0 edge-atlas-shv-03-atn1.facebook.com
-0.0.0.0 edge-atlas-shv-03-hkg1.facebook.com
-0.0.0.0 edge-atlas-shv-03-lla1.facebook.com
-0.0.0.0 edge-atlas-shv-03-prn2.facebook.com
-0.0.0.0 edge-atlas-shv-03-xdc1.facebook.com
-0.0.0.0 edge-atlas-shv-04-hkg1.facebook.com
-0.0.0.0 edge-atlas-shv-04-prn2.facebook.com
-0.0.0.0 edge-atlas-shv-06-atn1.facebook.com
-0.0.0.0 edge-atlas-shv-06-lla1.facebook.com
-0.0.0.0 edge-atlas-shv-07-ash4.facebook.com
-0.0.0.0 edge-atlas-shv-09-frc1.facebook.com
-0.0.0.0 edge-atlas-shv-09-lla1.facebook.com
-0.0.0.0 edge-atlas-shv-12-frc1.facebook.com
-0.0.0.0 edge-atlas-shv-12-frc3.facebook.com
-0.0.0.0 edge-atlas-shv-12-lla1.facebook.com
-0.0.0.0 edge-atlas-shv-12-prn1.facebook.com
-0.0.0.0 edge-atlas-shv-13-frc1.facebook.com
-0.0.0.0 edge-atlas-shv-17-prn1.facebook.com
-0.0.0.0 edge-atlas-shv-18-prn1.facebook.com
-0.0.0.0 edge-chat.facebook.com
-0.0.0.0 edge-liverail-shv-01-ams2.facebook.com
-0.0.0.0 edge-liverail-shv-01-ams3.facebook.com
-0.0.0.0 edge-liverail-shv-01-ash5.facebook.com
-0.0.0.0 edge-liverail-shv-01-atl1.facebook.com
-0.0.0.0 edge-liverail-shv-01-bru2.facebook.com
-0.0.0.0 edge-liverail-shv-01-cai1.facebook.com
-0.0.0.0 edge-liverail-shv-01-cdg2.facebook.com
-0.0.0.0 edge-liverail-shv-01-dfw1.facebook.com
-0.0.0.0 edge-liverail-shv-01-fra3.facebook.com
-0.0.0.0 edge-liverail-shv-01-gru1.facebook.com
-0.0.0.0 edge-liverail-shv-01-hkg2.facebook.com
-0.0.0.0 edge-liverail-shv-01-iad3.facebook.com
-0.0.0.0 edge-liverail-shv-01-kul1.facebook.com
-0.0.0.0 edge-liverail-shv-01-lax1.facebook.com
-0.0.0.0 edge-liverail-shv-01-lga1.facebook.com
-0.0.0.0 edge-liverail-shv-01-lhr3.facebook.com
-0.0.0.0 edge-liverail-shv-01-mad1.facebook.com
-0.0.0.0 edge-liverail-shv-01-mia1.facebook.com
-0.0.0.0 edge-liverail-shv-01-mxp1.facebook.com
-0.0.0.0 edge-liverail-shv-01-nrt1.facebook.com
-0.0.0.0 edge-liverail-shv-01-ord1.facebook.com
-0.0.0.0 edge-liverail-shv-01-sea1.facebook.com
-0.0.0.0 edge-liverail-shv-01-sin1.facebook.com
-0.0.0.0 edge-liverail-shv-01-sjc2.facebook.com
-0.0.0.0 edge-liverail-shv-01-syd1.facebook.com
-0.0.0.0 edge-liverail-shv-01-tpe1.facebook.com
-0.0.0.0 edge-liverail-shv-01-vie1.facebook.com
-0.0.0.0 edge-liverail-shv-02-cai1.facebook.com
-0.0.0.0 edge-liverail-shv-02-hkg2.facebook.com
-0.0.0.0 edge-liverail-shv-03-ash5.facebook.com
-0.0.0.0 edge-liverail-shv-03-atn1.facebook.com
-0.0.0.0 edge-liverail-shv-03-hkg1.facebook.com
-0.0.0.0 edge-liverail-shv-03-lla1.facebook.com
-0.0.0.0 edge-liverail-shv-03-prn2.facebook.com
-0.0.0.0 edge-liverail-shv-03-xdc1.facebook.com
-0.0.0.0 edge-liverail-shv-04-hkg1.facebook.com
-0.0.0.0 edge-liverail-shv-04-prn2.facebook.com
-0.0.0.0 edge-liverail-shv-06-atn1.facebook.com
-0.0.0.0 edge-liverail-shv-06-lla1.facebook.com
-0.0.0.0 edge-liverail-shv-07-ash4.facebook.com
-0.0.0.0 edge-liverail-shv-07-frc3.facebook.com
-0.0.0.0 edge-liverail-shv-09-frc1.facebook.com
-0.0.0.0 edge-liverail-shv-09-lla1.facebook.com
-0.0.0.0 edge-liverail-shv-12-frc1.facebook.com
-0.0.0.0 edge-liverail-shv-12-frc3.facebook.com
-0.0.0.0 edge-liverail-shv-12-lla1.facebook.com
-0.0.0.0 edge-liverail-shv-12-prn1.facebook.com
-0.0.0.0 edge-liverail-shv-13-frc1.facebook.com
-0.0.0.0 edge-liverail-shv-17-prn1.facebook.com
-0.0.0.0 edge-liverail-shv-18-prn1.facebook.com
-0.0.0.0 edge-mqtt-shv-01-ams2.facebook.com
-0.0.0.0 edge-mqtt-shv-01-ams3.facebook.com
-0.0.0.0 edge-mqtt-shv-01-ash5.facebook.com
-0.0.0.0 edge-mqtt-shv-01-atl1.facebook.com
-0.0.0.0 edge-mqtt-shv-01-bru2.facebook.com
-0.0.0.0 edge-mqtt-shv-01-cai1.facebook.com
-0.0.0.0 edge-mqtt-shv-01-cdg2.facebook.com
-0.0.0.0 edge-mqtt-shv-01-dfw1.facebook.com
-0.0.0.0 edge-mqtt-shv-01-fra3.facebook.com
-0.0.0.0 edge-mqtt-shv-01-gru1.facebook.com
-0.0.0.0 edge-mqtt-shv-01-hkg2.facebook.com
-0.0.0.0 edge-mqtt-shv-01-iad3.facebook.com
-0.0.0.0 edge-mqtt-shv-01-kul1.facebook.com
-0.0.0.0 edge-mqtt-shv-01-lax1.facebook.com
-0.0.0.0 edge-mqtt-shv-01-lga1.facebook.com
-0.0.0.0 edge-mqtt-shv-01-lhr3.facebook.com
-0.0.0.0 edge-mqtt-shv-01-mad1.facebook.com
-0.0.0.0 edge-mqtt-shv-01-mia1.facebook.com
-0.0.0.0 edge-mqtt-shv-01-mxp1.facebook.com
-0.0.0.0 edge-mqtt-shv-01-nrt1.facebook.com
-0.0.0.0 edge-mqtt-shv-01-ord1.facebook.com
-0.0.0.0 edge-mqtt-shv-01-sea1.facebook.com
-0.0.0.0 edge-mqtt-shv-01-sin1.facebook.com
-0.0.0.0 edge-mqtt-shv-01-sjc2.facebook.com
-0.0.0.0 edge-mqtt-shv-01-syd1.facebook.com
-0.0.0.0 edge-mqtt-shv-01-tpe1.facebook.com
-0.0.0.0 edge-mqtt-shv-01-vie1.facebook.com
-0.0.0.0 edge-mqtt-shv-02-cai1.facebook.com
-0.0.0.0 edge-mqtt-shv-02-hkg2.facebook.com
-0.0.0.0 edge-mqtt-shv-03-ash5.facebook.com
-0.0.0.0 edge-mqtt-shv-03-atn1.facebook.com
-0.0.0.0 edge-mqtt-shv-03-hkg1.facebook.com
-0.0.0.0 edge-mqtt-shv-03-lla1.facebook.com
-0.0.0.0 edge-mqtt-shv-03-prn2.facebook.com
-0.0.0.0 edge-mqtt-shv-03-xdc1.facebook.com
-0.0.0.0 edge-mqtt-shv-04-hkg1.facebook.com
-0.0.0.0 edge-mqtt-shv-04-prn2.facebook.com
-0.0.0.0 edge-mqtt-shv-06-atn1.facebook.com
-0.0.0.0 edge-mqtt-shv-06-lla1.facebook.com
-0.0.0.0 edge-mqtt-shv-07-ash4.facebook.com
-0.0.0.0 edge-mqtt-shv-07-frc3.facebook.com
-0.0.0.0 edge-mqtt-shv-09-lla1.facebook.com
-0.0.0.0 edge-mqtt-shv-12-frc1.facebook.com
-0.0.0.0 edge-mqtt-shv-12-frc3.facebook.com
-0.0.0.0 edge-mqtt-shv-12-lla1.facebook.com
-0.0.0.0 edge-mqtt-shv-12-prn1.facebook.com
-0.0.0.0 edge-mqtt-shv-13-frc1.facebook.com
-0.0.0.0 edge-mqtt-shv-17-prn1.facebook.com
-0.0.0.0 edge-mqtt-shv-18-prn1.facebook.com
-0.0.0.0 edge-mqtt.facebook.com
 0.0.0.0 edge-oculus-shv-01-lga3.fbcdn.net
 0.0.0.0 edge-oculus-shv-01-mia3.fbcdn.net
 0.0.0.0 edge-oculus-shv-01-sea1.fbcdn.net
 0.0.0.0 edge-oculus-shv-01-sjc2.fbcdn.net
 0.0.0.0 edge-oculus-shv-01-yyz1.fbcdn.net
-0.0.0.0 edge-snaptu-http-p1-shv-01-ams3.facebook.com
-0.0.0.0 edge-snaptu-http-p1-shv-01-atl1.facebook.com
-0.0.0.0 edge-snaptu-http-p1-shv-01-bru2.facebook.com
-0.0.0.0 edge-snaptu-http-p1-shv-01-cai1.facebook.com
-0.0.0.0 edge-snaptu-http-p1-shv-01-cdg2.facebook.com
-0.0.0.0 edge-snaptu-http-p1-shv-01-dfw1.facebook.com
-0.0.0.0 edge-snaptu-http-p1-shv-01-fra3.facebook.com
-0.0.0.0 edge-snaptu-http-p1-shv-01-gru1.facebook.com
-0.0.0.0 edge-snaptu-http-p1-shv-01-iad3.facebook.com
-0.0.0.0 edge-snaptu-http-p1-shv-01-kul1.facebook.com
-0.0.0.0 edge-snaptu-http-p1-shv-01-lax1.facebook.com
-0.0.0.0 edge-snaptu-http-p1-shv-01-lhr3.facebook.com
-0.0.0.0 edge-snaptu-http-p1-shv-01-mad1.facebook.com
-0.0.0.0 edge-snaptu-http-p1-shv-01-nrt1.facebook.com
-0.0.0.0 edge-snaptu-http-p1-shv-01-ord1.facebook.com
-0.0.0.0 edge-snaptu-http-p1-shv-01-sea1.facebook.com
-0.0.0.0 edge-snaptu-http-p1-shv-01-syd1.facebook.com
-0.0.0.0 edge-snaptu-http-p1-shv-02-cai1.facebook.com
-0.0.0.0 edge-snaptu-tunnel-shv-01-ams3.facebook.com
-0.0.0.0 edge-snaptu-tunnel-shv-01-ash5.facebook.com
-0.0.0.0 edge-snaptu-tunnel-shv-01-atl1.facebook.com
-0.0.0.0 edge-snaptu-tunnel-shv-01-bru2.facebook.com
-0.0.0.0 edge-snaptu-tunnel-shv-01-cai1.facebook.com
-0.0.0.0 edge-snaptu-tunnel-shv-01-cdg2.facebook.com
-0.0.0.0 edge-snaptu-tunnel-shv-01-dfw1.facebook.com
-0.0.0.0 edge-snaptu-tunnel-shv-01-fra3.facebook.com
-0.0.0.0 edge-snaptu-tunnel-shv-01-gru1.facebook.com
-0.0.0.0 edge-snaptu-tunnel-shv-01-hkg2.facebook.com
-0.0.0.0 edge-snaptu-tunnel-shv-01-iad3.facebook.com
-0.0.0.0 edge-snaptu-tunnel-shv-01-kul1.facebook.com
-0.0.0.0 edge-snaptu-tunnel-shv-01-lax1.facebook.com
-0.0.0.0 edge-snaptu-tunnel-shv-01-lhr3.facebook.com
-0.0.0.0 edge-snaptu-tunnel-shv-01-mad1.facebook.com
-0.0.0.0 edge-snaptu-tunnel-shv-01-nrt1.facebook.com
-0.0.0.0 edge-snaptu-tunnel-shv-01-ord1.facebook.com
-0.0.0.0 edge-snaptu-tunnel-shv-01-sea1.facebook.com
-0.0.0.0 edge-snaptu-tunnel-shv-01-syd1.facebook.com
-0.0.0.0 edge-snaptu-tunnel-shv-02-cai1.facebook.com
 0.0.0.0 edge-sonar-mini-shv-01-bru2.fbcdn.net
 0.0.0.0 edge-sonar-mini-shv-01-kul1.fbcdn.net
 0.0.0.0 edge-sonar-mini-shv-01-lht6.fbcdn.net
@@ -92002,7 +91557,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 edge-sonar-shv-13-frc1.fbcdn.net
 0.0.0.0 edge-sonar-shv-17-prn1.fbcdn.net
 0.0.0.0 edge-sonar-shv-18-prn1.fbcdn.net
-0.0.0.0 edge-star-shv-12-frc3.facebook.com
 0.0.0.0 edge-video-shv-01-ams2.fbcdn.net
 0.0.0.0 edge-video-shv-01-ams3.fbcdn.net
 0.0.0.0 edge-video-shv-01-arn2.fbcdn.net
@@ -92039,49 +91593,11 @@ ff02::3 ip6-allhosts
 0.0.0.0 edge-video-shv-01-yyz1.fbcdn.net
 0.0.0.0 edge-video-shv-02-dft4.fbcdn.net
 0.0.0.0 edge-video-shv-02-sin6.fbcdn.net
-0.0.0.0 edgeray-origin-shv-05-prn2.facebook.com
-0.0.0.0 edgeray-origin-shv-07-lla1.facebook.com
-0.0.0.0 edgeray-origin-shv-09-frc3.facebook.com
-0.0.0.0 edgeray-origin-shv-11-frc3.facebook.com
-0.0.0.0 edgeray-shv-01-ams2.facebook.com
-0.0.0.0 edgeray-shv-01-ams3.facebook.com
-0.0.0.0 edgeray-shv-01-atl1.facebook.com
-0.0.0.0 edgeray-shv-01-bru2.facebook.com
-0.0.0.0 edgeray-shv-01-cdg2.facebook.com
-0.0.0.0 edgeray-shv-01-dfw1.facebook.com
-0.0.0.0 edgeray-shv-01-fra3.facebook.com
-0.0.0.0 edgeray-shv-01-gru1.facebook.com
-0.0.0.0 edgeray-shv-01-iad3.facebook.com
-0.0.0.0 edgeray-shv-01-kul1.facebook.com
-0.0.0.0 edgeray-shv-01-lax1.facebook.com
-0.0.0.0 edgeray-shv-01-lga1.facebook.com
-0.0.0.0 edgeray-shv-01-lhr3.facebook.com
-0.0.0.0 edgeray-shv-01-mad1.facebook.com
-0.0.0.0 edgeray-shv-01-mia1.facebook.com
-0.0.0.0 edgeray-shv-01-mxp1.facebook.com
-0.0.0.0 edgeray-shv-01-ord1.facebook.com
-0.0.0.0 edgeray-shv-01-sea1.facebook.com
-0.0.0.0 edgeray-shv-01-sin1.facebook.com
-0.0.0.0 edgeray-shv-01-sjc2.facebook.com
-0.0.0.0 edgeray-shv-01-syd1.facebook.com
-0.0.0.0 edgeray-shv-01-vie1.facebook.com
-0.0.0.0 el-gr.facebook.com
-0.0.0.0 elkjopnordic.m.facebook.com
-0.0.0.0 en-gb.facebook.com
-0.0.0.0 en-gb.th-th.fbjs.facebook.com
 0.0.0.0 ent-a.xx.fbcdn.net
 0.0.0.0 ent-b.xx.fbcdn.net
 0.0.0.0 ent-c.xx.fbcdn.net
 0.0.0.0 ent-d.xx.fbcdn.net
 0.0.0.0 ent-e.xx.fbcdn.net
-0.0.0.0 error.facebook.com
-0.0.0.0 es-es.facebook.com
-0.0.0.0 es-es.facebook.es
-0.0.0.0 es-es.facebook.mx
-0.0.0.0 es-la.es-es.de-de.fbjs.facebook.com
-0.0.0.0 es-la.facebook.com
-0.0.0.0 es.facebook.com
-0.0.0.0 et-ee.facebook.com
 0.0.0.0 external-cdt1-1.xx.fbcdn.net
 0.0.0.0 external-frt3-2.xx.fbcdn.net
 0.0.0.0 external-hkg3-1.xx.fbcdn.net
@@ -92117,27 +91633,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 external.fvit1-1.fna.fbcdn.net
 0.0.0.0 f6eec677a80kdno4pyq-kxornjlf1521512613-sonar.xz.fbcdn.net
 0.0.0.0 f91858abe80k2geylvi-zhianuzp1521559729-sonar.xx.fbcdn.net
-0.0.0.0 fa-ir.facebook.com
-0.0.0.0 facebook-studio.com
-0.0.0.0 facebook-web-clients.appspot.com
-0.0.0.0 facebook.be
-0.0.0.0 facebook.com
-0.0.0.0 facebook.com.facebook.com
-0.0.0.0 facebook.de
-0.0.0.0 facebook.dk
-0.0.0.0 facebook.es
-0.0.0.0 facebook.fr
-0.0.0.0 facebook.is
-0.0.0.0 facebook.it
-0.0.0.0 facebook.jp
-0.0.0.0 facebook.mx
-0.0.0.0 facebook.nl
-0.0.0.0 facebook.no
-0.0.0.0 facebook.se
-0.0.0.0 facebook.us
-0.0.0.0 fb-lt.facebook.com
 0.0.0.0 fb.com
-0.0.0.0 fb.m.facebook.com
 0.0.0.0 fb.me
 0.0.0.0 fbcallback.wechat.com
 0.0.0.0 fbcdn-creative-a.akamaihd.net
@@ -92173,135 +91669,30 @@ ff02::3 ip6-allhosts
 0.0.0.0 fbcdn.com
 0.0.0.0 fbcdn.net
 0.0.0.0 fbexternal-a.akamaihd.net
-0.0.0.0 fbjs.facebook.com
 0.0.0.0 fbsbx.com
 0.0.0.0 fbstatic-a.akamaihd.net
 0.0.0.0 fbstatic.net
 0.0.0.0 fdda274d380ki4frcgi-rumjfjai1460158783-sonar.xx.fbcdn.net
-0.0.0.0 fi-fi.facebook.com
-0.0.0.0 flex.m.facebook.com
-0.0.0.0 flynorra.m.facebook.com
 0.0.0.0 fmel2-1.fbcdn.net
 0.0.0.0 fna-fbcdn-shv-01-fmaa1.fbcdn.net
 0.0.0.0 fna-fbcdn-shv-02-fdet1.fbcdn.net
 0.0.0.0 fna-fbcdn-shv-02-fsnc1.fbcdn.net
 0.0.0.0 fna-fbcdn-video-shv-01-ffjr1.fbcdn.net
 0.0.0.0 fna.fbcdn.net
-0.0.0.0 fpt.m.facebook.com
-0.0.0.0 fr-ca.facebook.com
-0.0.0.0 fr-fr.facebook.com
-0.0.0.0 fr-fr.facebook.fr
-0.0.0.0 fr.facebook.com
-0.0.0.0 free.beta.facebook.com
-0.0.0.0 free.facebook.com
 0.0.0.0 free.freebasics.com
 0.0.0.0 free.internet.org
 0.0.0.0 freebasics.com
-0.0.0.0 generalelectric.m.facebook.com
-0.0.0.0 gingerhotels.m.facebook.com
-0.0.0.0 gob.m.facebook.com
-0.0.0.0 google.m.facebook.com
-0.0.0.0 govrequess.facebook.com
-0.0.0.0 govtech.m.facebook.com
-0.0.0.0 govtrequests.facebook.com
-0.0.0.0 graph-video.facebook.com
-0.0.0.0 graph.facebook.com
-0.0.0.0 grupoboticario.m.facebook.com
 0.0.0.0 h-ct-m-fbx.fbsbx.com.online-metrix.net
-0.0.0.0 h.beta.facebook.com
-0.0.0.0 h.facebook.com
-0.0.0.0 hclinfosystems.m.facebook.com
-0.0.0.0 he-il.facebook.com
 0.0.0.0 herningrideklub.netscontent-a-ams.xx.fbcdn.net
-0.0.0.0 hi-in.facebook.com
-0.0.0.0 hootsuite.m.facebook.com
 0.0.0.0 hphotos-sea1.fbcdn.net
-0.0.0.0 hr-hr.facebook.com
-0.0.0.0 hs.facebook.com
-0.0.0.0 hu-hu.facebook.com
-0.0.0.0 huawei.facebook.com
-0.0.0.0 hunu.m.facebook.com
-0.0.0.0 id-id.facebook.com
-0.0.0.0 iictt.m.facebook.com
 0.0.0.0 info.internet.org
-0.0.0.0 intern.facebook.com
 0.0.0.0 internet.org
 0.0.0.0 investor.fb.com
-0.0.0.0 inyour-slb-01-05-ash3.facebook.com
-0.0.0.0 inyour.facebook.com
-0.0.0.0 iphone.facebook.com
-0.0.0.0 is-is.facebook.com
-0.0.0.0 it-it.facebook.com
-0.0.0.0 it.facebook.com
-0.0.0.0 ja-jp.facebook.com
-0.0.0.0 ja-jp.facebook.jp
-0.0.0.0 ja-ks.facebook.com
-0.0.0.0 jetairways.m.facebook.com
-0.0.0.0 ka-ge.facebook.com
-0.0.0.0 ko-kr.facebook.com
-0.0.0.0 kyivstar.m.facebook.com
-0.0.0.0 l.facebook.com
-0.0.0.0 landmarkgroup.m.facebook.com
-0.0.0.0 latest.facebook.com
-0.0.0.0 leclerc.m.facebook.com
-0.0.0.0 lists.facebook.com
-0.0.0.0 lithium.facebook.com
-0.0.0.0 liverail.c10r.facebook.com
-0.0.0.0 lm.facebook.com
-0.0.0.0 lntecc.m.facebook.com
-0.0.0.0 lntinfotech.m.facebook.com
-0.0.0.0 login.facebook.com
-0.0.0.0 lookaside.facebook.com
-0.0.0.0 lv-lv.facebook.com
-0.0.0.0 m.facebook.com
 0.0.0.0 m.me
-0.0.0.0 mahindra.m.facebook.com
-0.0.0.0 mbasic.facebook.com
-0.0.0.0 meli.m.facebook.com
-0.0.0.0 messages-facebook.com
-0.0.0.0 messenger.com
 0.0.0.0 mia1.fbcdn.net
-0.0.0.0 microsoft.m.facebook.com
-0.0.0.0 mietra-de.m.facebook.com
-0.0.0.0 miroglio.m.facebook.com
-0.0.0.0 mm.m.facebook.com
-0.0.0.0 mobile.beta.facebook.com
-0.0.0.0 mobile.facebook.com
-0.0.0.0 moelven.m.facebook.com
-0.0.0.0 mqtt-ig-p4.facebook.com
-0.0.0.0 mqtt-mini.facebook.com
-0.0.0.0 mqtt-p4.facebook.com
-0.0.0.0 mqtt.c10r.facebook.com
-0.0.0.0 mqtt.facebook.com
-0.0.0.0 mqtt.vvv.facebook.com
-0.0.0.0 ms-my.facebook.com
-0.0.0.0 mtouch.facebook.com
-0.0.0.0 national.facebook.com
-0.0.0.0 nb-no.facebook.com
-0.0.0.0 nb-no.facebook.no
 0.0.0.0 ncontent.xx.fbcdn.net
-0.0.0.0 newsec.facebook.com
 0.0.0.0 newsroom.fb.com
-0.0.0.0 nic.facebook.com
-0.0.0.0 nike.m.facebook.com
-0.0.0.0 nl-nl.facebook.com
-0.0.0.0 nl.facebook.com
-0.0.0.0 nokia.m.facebook.com
-0.0.0.0 norcap.m.facebook.com
-0.0.0.0 noroestecom.m.facebook.com
-0.0.0.0 nova.facebook.com
-0.0.0.0 ns1.facebook.com
-0.0.0.0 ns2.facebook.com
-0.0.0.0 ns3.facebook.com
-0.0.0.0 nsa.facebook.com
-0.0.0.0 ntp.facebook.com
-0.0.0.0 o.beta.facebook.com
-0.0.0.0 o.facebook.com
 0.0.0.0 o.internet.org
-0.0.0.0 ocbc.m.facebook.com
-0.0.0.0 onepublicservice.m.facebook.com
-0.0.0.0 onevedanta.m.facebook.com
-0.0.0.0 orcart.facebook.com
 0.0.0.0 origincache-ai-01-05-ash3.fbcdn.net
 0.0.0.0 origincache-ash.t.fbcdn.net
 0.0.0.0 origincache-frc.t.fbcdn.net
@@ -92309,7 +91700,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 origincache-lla.fbcdn.net
 0.0.0.0 origincache-prn.t.fbcdn.net
 0.0.0.0 origincache-shv-04-ash5.fbcdn.net
-0.0.0.0 origincache-starfacebook-ai-01-05-ash3.facebook.com
 0.0.0.0 origincache-tf.t.fbcdn.net
 0.0.0.0 origincache-tl.t.fbcdn.net
 0.0.0.0 origincache-xfa.fbcdn.net
@@ -92329,9 +91719,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 origincache-xx-shv-09-frc3.fbcdn.net
 0.0.0.0 origincache-xx-shv-09-prn2.fbcdn.net
 0.0.0.0 origincache-xx-shv-13-prn1.fbcdn.net
-0.0.0.0 ouch.facebook.com
-0.0.0.0 pacific.facebook.com
-0.0.0.0 pernambucanas.m.facebook.com
 0.0.0.0 photos-a-ord.xx.fbcdn.net
 0.0.0.0 photos-a.ak.fbcdn.net
 0.0.0.0 photos-a.xx.fbcdn.net
@@ -92345,10 +91732,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 photos-g.ak.fbcdn.net
 0.0.0.0 photos-h.ak.fbcdn.net
 0.0.0.0 photos-snc1.fbcdn.net
-0.0.0.0 pl-pl.facebook.com
 0.0.0.0 platform.foursquare.com
-0.0.0.0 postmaster.facebook.com
-0.0.0.0 prod.facebook.com
 0.0.0.0 profile-a-atl.xx.fbcdn.net
 0.0.0.0 profile-a-dfw.xx.fbcdn.net
 0.0.0.0 profile-a-iad.xx.fbcdn.net
@@ -92366,29 +91750,11 @@ ff02::3 ip6-allhosts
 0.0.0.0 profile-b-ord.xx.fbcdn.net
 0.0.0.0 profile-b-sjc.xx.fbcdn.net
 0.0.0.0 profile-b.xx.fbcdn.net
-0.0.0.0 profile.ak.facebook.com
-0.0.0.0 profile.ak.facebook.com.edgesuite.net
 0.0.0.0 profile.ak.fbcdn.net
 0.0.0.0 profile.xx.fbcdn.net
-0.0.0.0 promis.facebook.com
-0.0.0.0 pt-br.facebook.com
-0.0.0.0 pt-pt.facebook.com
-0.0.0.0 rcn.m.facebook.com
-0.0.0.0 rdg.facebook.com
-0.0.0.0 register.facebook.com
-0.0.0.0 rema.m.facebook.com
-0.0.0.0 research.facebook.com
-0.0.0.0 ro-ro.facebook.com
-0.0.0.0 ru-ru.facebook.com
-0.0.0.0 rupload.facebook.com
 0.0.0.0 s-external.ak.fbcdn.net
-0.0.0.0 s-static.ak.facebook.com
-0.0.0.0 s-static.ak.facebook.com.edgekey.net
 0.0.0.0 s-static.ak.fbcdn.net
-0.0.0.0 s-static.facebook.com
 0.0.0.0 sac-h-ct-m-fbx.fbsbx.com.online-metrix.net
-0.0.0.0 saic-ak.facebook.com
-0.0.0.0 savethechildren.m.facebook.com
 0.0.0.0 scontent-1.2914.fna.fbcdn.net
 0.0.0.0 scontent-2.2914.fna.fbcdn.net
 0.0.0.0 scontent-a-ams.xx.fbcdn.net
@@ -92619,21 +91985,8 @@ ff02::3 ip6-allhosts
 0.0.0.0 scontent.fybz2-2.fna.fbcdn.net
 0.0.0.0 scontent.fymy1-2.fna.fbcdn.net
 0.0.0.0 scontent.xx.fbcdn.net
-0.0.0.0 scotiabank.m.facebook.com
 0.0.0.0 secure-media-snc1.fbcdn.net
 0.0.0.0 secure-media.fbcdn.net
-0.0.0.0 secure-profile.facebook.com
-0.0.0.0 secure.facebook.com
-0.0.0.0 sitel.m.facebook.com
-0.0.0.0 sk-sk.facebook.com
-0.0.0.0 ski.m.facebook.com
-0.0.0.0 snaptu-d-shv-05-frc3.facebook.com
-0.0.0.0 snaptu-d-shv-10-frc1.facebook.com
-0.0.0.0 snaptu-mini.facebook.com
-0.0.0.0 snaptu-p1.facebook.com
-0.0.0.0 snaptu-p2.facebook.com
-0.0.0.0 softtech.m.facebook.com
-0.0.0.0 sok.m.facebook.com
 0.0.0.0 sonar.fbsb1-1.fna.fbcdn.net
 0.0.0.0 sonar.fgua1-1.fna.fbcdn.net
 0.0.0.0 sonar.fmaa1-1.fna.fbcdn.net
@@ -92678,44 +92031,10 @@ ff02::3 ip6-allhosts
 0.0.0.0 sphotos.ak.fbcdn.net
 0.0.0.0 sphotos.xx.fbcdn.net
 0.0.0.0 sphotosbord.xx.fbcdn.net
-0.0.0.0 sr-rs.facebook.com
-0.0.0.0 srt.m.facebook.com
-0.0.0.0 ssl.connect.facebook.com
-0.0.0.0 ssl.facebook.com
-0.0.0.0 stanleyblackanddecker.m.facebook.com
-0.0.0.0 star-mini.c10r.facebook.com
-0.0.0.0 star.c10r.facebook.com
-0.0.0.0 star.facebook.com
-0.0.0.0 static-ak.facebook.com
-0.0.0.0 static.ak.connect.facebook.com
-0.0.0.0 static.ak.facebook.com
-0.0.0.0 static.ak.facebook.com.edgesuite.net
 0.0.0.0 static.ak.fbcdn.net
-0.0.0.0 static.facebook.com
 0.0.0.0 static.fdel11-1.fna.fbcdn.net
 0.0.0.0 static.fsea1-1.fna.fbcdn.net
-0.0.0.0 static.thefacebook.com
 0.0.0.0 static.xx.fbcdn.net
-0.0.0.0 staticxx.facebook.com
-0.0.0.0 stormberg.m.facebook.com
-0.0.0.0 sv-se.facebook.com
-0.0.0.0 sv-se.facebook.se
-0.0.0.0 teem.m.facebook.com
-0.0.0.0 telenor.m.facebook.com
-0.0.0.0 th-th.facebook.com
-0.0.0.0 timbrasil.m.facebook.com
-0.0.0.0 tl-ph.facebook.com
-0.0.0.0 touch.facebook.com
-0.0.0.0 tr-tr.facebook.com
-0.0.0.0 tr.facebook.com
-0.0.0.0 trocglobal.m.facebook.com
-0.0.0.0 uk2group.m.facebook.com
-0.0.0.0 unicreativearts.m.facebook.com
-0.0.0.0 upload.facebook.com
-0.0.0.0 ustglobal.m.facebook.com
-0.0.0.0 v4help.facebook.com
-0.0.0.0 venteprivee.m.facebook.com
-0.0.0.0 vi-vn.facebook.com
 0.0.0.0 video-hkg3-1.xx.fbcdn.net
 0.0.0.0 video-iad3-1.xx.fbcdn.net
 0.0.0.0 video-sof1-1.xx.fbcdn.net
@@ -92772,41 +92091,9 @@ ff02::3 ip6-allhosts
 0.0.0.0 vpn.tfbnw.net
 0.0.0.0 vthumb.ak.fbcdn.net
 0.0.0.0 vthumb.xx.fbcdn.net
-0.0.0.0 vupload.facebook.com
-0.0.0.0 vupload2.vvv.facebook.com
-0.0.0.0 w.facebook.com
-0.0.0.0 web.beta.facebook.com
-0.0.0.0 web.facebook.com
-0.0.0.0 webdav.facebook.com
-0.0.0.0 wooga.m.facebook.com
-0.0.0.0 work-98949980.facebook.com
-0.0.0.0 ww.facebook.com
-0.0.0.0 www.connect.facebook.net
-0.0.0.0 www.facebook.be
-0.0.0.0 www.facebook.com
-0.0.0.0 www.facebook.de
-0.0.0.0 www.facebook.dk
-0.0.0.0 www.facebook.es
-0.0.0.0 www.facebook.fr
-0.0.0.0 www.facebook.is
-0.0.0.0 www.facebook.it
-0.0.0.0 www.facebook.jp
-0.0.0.0 www.facebook.mx
-0.0.0.0 www.facebook.nl
-0.0.0.0 www.facebook.no
-0.0.0.0 www.facebook.se
-0.0.0.0 www.facebook.us
 0.0.0.0 www.fbcdn.com
 0.0.0.0 www.fbcdn.net
-0.0.0.0 www.graph.facebook.com
-0.0.0.0 www.login.facebook.com
-0.0.0.0 www.prod.facebook.com
-0.0.0.0 www.s-static.ak.facebook.com
-0.0.0.0 www.static.ak.connect.facebook.com
 0.0.0.0 www.static.ak.fbcdn.net
-0.0.0.0 www2.facebook.com
-0.0.0.0 wwww.facebook.com
-0.0.0.0 x.facebook.com
 0.0.0.0 xx-fbcdn-ecmp-02-atl1.fbcdn.net
 0.0.0.0 xx-fbcdn-ecmp-02-ord1.fbcdn.net
 0.0.0.0 xx-fbcdn-ecmp-04-sjc1.fbcdn.net
@@ -92898,12 +92185,8 @@ ff02::3 ip6-allhosts
 0.0.0.0 z-1-scontent.xx.fbcdn.net
 0.0.0.0 z-1-video.fpoa10-1.fna.fbcdn.net
 0.0.0.0 z-1-video.fszb1-1.fna.fbcdn.net
-0.0.0.0 z-1.c10r.facebook.com
-0.0.0.0 z-1.facebook.com
-0.0.0.0 z-m-api.facebook.com
 0.0.0.0 z-m-fbcdn-mini-shv-01-ord1.fbcdn.net
 0.0.0.0 z-m-fbcdn-shv-01-frt3.fbcdn.net
-0.0.0.0 z-m-graph.facebook.com
 0.0.0.0 z-m-scontent-ams.xx.fbcdn.net
 0.0.0.0 z-m-scontent-amt.xx.fbcdn.net
 0.0.0.0 z-m-scontent-arn.xx.fbcdn.net
@@ -93023,19 +92306,9 @@ ff02::3 ip6-allhosts
 0.0.0.0 z-m-video-vie.xx.fbcdn.net
 0.0.0.0 z-m-video-waw.xx.fbcdn.net
 0.0.0.0 z-m-video-yyz.xx.fbcdn.net
-0.0.0.0 z-m-www.facebook.com
-0.0.0.0 z-m.c10r.facebook.com
-0.0.0.0 z-m.facebook.com
-0.0.0.0 z-p1-api.facebook.com
-0.0.0.0 z-p1-graph.facebook.com
-0.0.0.0 z-p1-upload.facebook.com
-0.0.0.0 z-p1.facebook.com
-0.0.0.0 z-p3-api.facebook.com
 0.0.0.0 z-p3-external.fmdc1-1.fna.fbcdn.net
 0.0.0.0 z-p3-external.fsdu11-1.fna.fbcdn.net
 0.0.0.0 z-p3-external.fsea1-1.fna.fbcdn.net
-0.0.0.0 z-p3-graph.facebook.com
-0.0.0.0 z-p3-rupload.facebook.com
 0.0.0.0 z-p3-scontent-lax3-1.xx.fbcdn.net
 0.0.0.0 z-p3-scontent.facc1-1.fna.fbcdn.net
 0.0.0.0 z-p3-scontent.faqa1-1.fna.fbcdn.net
@@ -93058,26 +92331,12 @@ ff02::3 ip6-allhosts
 0.0.0.0 z-p3-scontent.fsea1-1.fna.fbcdn.net
 0.0.0.0 z-p3-scontent.fsub1-1.fna.fbcdn.net
 0.0.0.0 z-p3-scontent.ftpa1-1.fna.fbcdn.net
-0.0.0.0 z-p3-upload.facebook.com
 0.0.0.0 z-p3-video-vie1-1.xx.fbcdn.net
 0.0.0.0 z-p3-video.flpb1-1.fna.fbcdn.net
 0.0.0.0 z-p3-video.fpfb1-1.fna.fbcdn.net
 0.0.0.0 z-p3-video.fsea1-1.fna.fbcdn.net
-0.0.0.0 z-p3.facebook.com
-0.0.0.0 z-p4-api.facebook.com
-0.0.0.0 z-p4-graph.facebook.com
-0.0.0.0 z-p4-rupload.facebook.com
-0.0.0.0 z-p4-upload.facebook.com
-0.0.0.0 z-p4.facebook.com
-0.0.0.0 z-upload.facebook.com
-0.0.0.0 z.facebook.com
-0.0.0.0 zero.beta.facebook.com
-0.0.0.0 zero.facebook.com
 0.0.0.0 zero.freebasics.com
 0.0.0.0 zero.internet.org
-0.0.0.0 zh-cn.facebook.com
-0.0.0.0 zh-hk.facebook.com
-0.0.0.0 zh-tw.facebook.com
 
 # Instagram
 0.0.0.0 api.instagram.com
@@ -93137,7 +92396,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 instagram-shv-13-frc1.fbcdn.net
 0.0.0.0 instagram-shv-17-prn1.fbcdn.net
 0.0.0.0 instagram-shv-18-prn1.fbcdn.net
-0.0.0.0 instagram.c10r.facebook.com
 0.0.0.0 instagram.com
 0.0.0.0 instagramstatic-a.akamaihd.net
 0.0.0.0 instagramstatic-a.akamaihd.net.edgesuite.net

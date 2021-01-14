@@ -93,14 +93,15 @@ main(){
 	
 	hosts_dir=/home/${username}/.local/hosts
 	mkdir -p $hosts_dir
-	if ! [[ -f ${hosts_dir}/hosts_without_social.txt  ]] && ! [[ -f ${hosts_dir}/hosts_with_social.txt ]] && ! [[ -f ${hosts_dir}/hosts ]]; then
+	if ! [[ -f "${hosts_dir}/hosts_without_social.txt"  ]] || ! [[ -f "${hosts_dir}/hosts_with_social.txt" ]] || ! [[ -f "${hosts_dir}/hosts" ]]; then
 
 		wget https://raw.githubusercontent.com/Cloufish/dotfiles/main/hosts_without_social.txt -O ${hosts_dir}/hosts_without_social.txt
 		wget https://raw.githubusercontent.com/Cloufish/dotfiles/main/hosts_with_social.txt -O ${hosts_dir}/hosts_with_social.txt
+		touch ${hosts_dir}/hosts
 		sudo rm /etc/hosts
 	fi
 
-	if ! [[ -f /etc/hosts ]]; then
+	if ! [[ -f "/etc/hosts" ]]; then
 		sudo ln ${hosts_dir}/hosts /etc/hosts
 	fi
 
@@ -121,19 +122,19 @@ main(){
 
 		number_of_pomodoro_series=0
 
-		mpg123 -f -2000 ${sounds_dir}/sound_work.mp3 & notify-send -u normal --expire-time=20000 "WORK TIME! (25min)"
+		mpg123 -f -2000 ${sounds_dir}/sound_work.mp3 & notify-send -u normal --expire-time=10000 "WORK TIME! (25min)"
 		cat ${hosts_dir}/hosts_with_social.txt > ${hosts_dir}/hosts
 		number_of_pomodoro_series=$((number_of_pomodoro_series+1))
 		timer_work
 		
-		if [[ $number_of_pomodoro_series -eq 4 ]]; then
-			mpg123 -f -2000 ${sounds_dir}/sound_long_break.mp3 & notify-send -u critical -t 20000 "LONG BREAK TIME! (30min)" 
+		if (( ${number_of_pomodoro_series} == 4 )); then
+			mpg123 -f -2000 ${sounds_dir}/sound_long_break.mp3 & notify-send -u normal --expire-time=10000 "LONG BREAK TIME! (30min)" 
 			cat ${hosts_dir}/hosts_without_social.txt  > ${hosts_dir}/hosts
 			#systemctl suspend & 
 			timer_long_break
 
-		elif [[ $number_of_pomodoro_series -lt 4 ]]; then
-			mpg123 -f -2000 ${sounds_dir}/sound_break.mp3 & notify-send -u critical -t 20000 "BREAK TIME! (5min)"
+		elif (( ${number_of_pomodoro_series} < 4 )); then
+			mpg123 -f -2000 ${sounds_dir}/sound_break.mp3 & notify-send -u normal --expire-time=10000 "BREAK TIME! (5min)"
 			cat ${hosts_dir}/hosts_without_social.txt > ${hosts_dir}/hosts
 			#systemctl suspend & 
 			timer_break

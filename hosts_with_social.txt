@@ -93406,6 +93406,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 youtube.com
 0.0.0.0 www.youtube.com
 0.0.0.0 www.m.youtube.com
+0.0.0.0 discord.com
 0.0.0.0 www.googlevideo.com
 0.0.0.0 www.ytimg.com
 0.0.0.0 www.youtube.googleapis.com

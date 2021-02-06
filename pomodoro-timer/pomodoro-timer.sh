@@ -90,7 +90,7 @@ timer_work(){
 main(){
 
 	username=$(logname)
-	
+
 	hosts_dir=/home/${username}/.local/hosts
 	mkdir -p $hosts_dir
 	if ! [[ -f "${hosts_dir}/hosts_without_social.txt"  ]] || ! [[ -f "${hosts_dir}/hosts_with_social.txt" ]] || ! [[ -f "${hosts_dir}/hosts" ]]; then
@@ -113,7 +113,7 @@ main(){
 		wget -O ${sounds_dir}/sound_break.mp3 "https://proxy.notificationsounds.com/notification-sounds/coins-497/download/file-sounds-869-coins.mp3"
 		wget -O ${sounds_dir}/sound_long_break.mp3 "https://proxy.notificationsounds.com/sound-effects/chimes-440/download/file-sounds-922-chimes.mp3"
 		wget -O ${sounds_dir}/sound_work.mp3 "https://proxy.notificationsounds.com/message-tones/office-2-453/download/file-sounds-847-office-2.mp3"
- 
+
 		echo -e "\n\n"
 	fi
 
@@ -126,17 +126,17 @@ main(){
 		cat ${hosts_dir}/hosts_with_social.txt > ${hosts_dir}/hosts
 		number_of_pomodoro_series=$((number_of_pomodoro_series+1))
 		timer_work
-		
+
 		if (( ${number_of_pomodoro_series} == 4 )); then
-			mpg123 -f -2000 ${sounds_dir}/sound_long_break.mp3 & notify-send -u normal --expire-time=10000 "LONG BREAK TIME! (30min)" 
+			mpg123 -f -2000 ${sounds_dir}/sound_long_break.mp3 & notify-send -u normal --expire-time=10000 "LONG BREAK TIME! (30min)"
 			cat ${hosts_dir}/hosts_without_social.txt  > ${hosts_dir}/hosts
-			#systemctl suspend & 
+			#systemctl suspend &
 			timer_long_break
 
 		elif (( ${number_of_pomodoro_series} < 4 )); then
 			mpg123 -f -2000 ${sounds_dir}/sound_break.mp3 & notify-send -u normal --expire-time=10000 "BREAK TIME! (5min)"
 			cat ${hosts_dir}/hosts_without_social.txt > ${hosts_dir}/hosts
-			#systemctl suspend & 
+			#systemctl suspend &
 			timer_break
 		fi
 
